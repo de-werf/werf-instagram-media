@@ -1,2 +1,2 @@
 # werf-instagram-media
-Beelden voor de Instagram-posts van de Werf, klaargeet door Luc voor Buffer
+Beelden voor de Instagram-posts van de Werf, klaargezet door Luc voor Buffer
